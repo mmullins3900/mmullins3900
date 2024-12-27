@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @mmullins3900 (aka Mike Mullins)
-- 👀 I’m interested in ...coding ...Enterprise Integration coding, IoT & embedded systems coding, Mobile device coding, just about any kind of coding...
-- 🌱 I’m currently learning ...JourneyApps cloud mobile cross platform development and Oxide, Webstorm, GoLand, and Rider IDEs...
-- 💞️ I’m looking to collaborate on ...what do you need that I might be of assistance with?
+- 👀 I’m interested in coding for Enterprise Integration, IoT & embedded systems, Mobile devices, OnBase Content Services Platform, JourneyApps Crossplatform Solutions, Home Assistant, Elk Products Crossplatform Systems,.Net 8.0.
 - 📫 How to reach me ...email me progr at mmer dot com.
 
 <!---
